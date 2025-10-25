@@ -1,5 +1,9 @@
 # Sistema de Reembolso - FIAP DevLeadership
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend)
+[![Demo](https://img.shields.io/badge/Demo-Online-green?style=for-the-badge&logo=vercel)](https://fiap.jucelio.work/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker)](https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend)
+
 ## 📋 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do curso **FIAP DevLeadership** e tem como objetivo demonstrar uma aplicação completa de sistema de reembolso com análise automática de documentos. O sistema simula um ambiente real de processamento de solicitações de reembolso de passagens aéreas, utilizando tecnologias modernas de frontend e integração com serviços de IA.
@@ -112,32 +116,27 @@ O sistema inclui dados de demonstração que simulam cenários reais:
 
 ## 🚀 Como Executar
 
-### Opção 1: Docker (Recomendado)
+### Opção 1: Git Clone + Docker (Recomendado)
 
 ```bash
+# Clonar o repositório
+git clone https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend.git
+cd FIAP_DevLeadership_Projeto_Reembolso_Frontend
+
 # Executar com Docker (produção)
-docker-build.bat
+docker-compose up --build -d
 
-# Executar em modo desenvolvimento
-docker-build.bat dev
-
-# Apenas build das imagens
-docker-build.bat build
+# Acessar a aplicação
+# http://localhost:3000
 ```
 
-### Opção 2: Docker Compose
+### Opção 2: Instalação Local
 
 ```bash
-# Produção
-docker-compose up --build
+# Clonar o repositório
+git clone https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend.git
+cd FIAP_DevLeadership_Projeto_Reembolso_Frontend
 
-# Desenvolvimento
-docker-compose --profile dev up --build
-```
-
-### Opção 3: Instalação Local
-
-```bash
 # Instalar dependências
 npm install
 
@@ -147,6 +146,10 @@ npm run dev
 # Build para produção
 npm run build
 ```
+
+### 🌐 Acesso Online
+
+**🔗 Demonstração Online**: [https://fiap.jucelio.work/](https://fiap.jucelio.work/)
 
 > 📖 **Documentação Docker**: Para instruções detalhadas sobre Docker, consulte [DOCKER.md](./DOCKER.md)
 
@@ -199,6 +202,13 @@ A apresentação em vídeo demonstra:
 - ✅ **Arquitetura Técnica**: Microserviços, Docker, integração com Azure
 - ✅ **Conceitos de DevLeadership**: Automação, métricas, liderança técnica
 - ✅ **Demonstração Prática**: Upload de documentos, processamento OCR, aprovação/reprovação
+
+## 🔗 Links Importantes
+
+- **📺 Apresentação em Vídeo**: [https://fiap.jucelio.work/](https://fiap.jucelio.work/)
+- **💻 Código Fonte**: [GitHub Repository](https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend)
+- **🐳 Docker Hub**: [Container Image](https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend)
+- **📚 Documentação Docker**: [DOCKER.md](./DOCKER.md)
 
 ---
 
