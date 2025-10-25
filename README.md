@@ -4,6 +4,12 @@
 
 Este projeto foi desenvolvido como parte do curso **FIAP DevLeadership** e tem como objetivo demonstrar uma aplicação completa de sistema de reembolso com análise automática de documentos. O sistema simula um ambiente real de processamento de solicitações de reembolso de passagens aéreas, utilizando tecnologias modernas de frontend e integração com serviços de IA.
 
+## 🎥 Apresentação do Projeto
+
+**📺 Vídeo de Demonstração**: [https://fiap.jucelio.work/](https://fiap.jucelio.work/)
+
+> 🎬 **Assista à apresentação completa** do Sistema de Reembolso FIAP DevLeadership, incluindo demonstração das funcionalidades, arquitetura e conceitos aplicados.
+
 ## 🎯 Objetivo
 
 O sistema foi criado para mostrar a aplicação prática de conceitos de **DevLeadership**, incluindo:
@@ -183,6 +189,16 @@ Este projeto representa uma aplicação completa em um cenário real de automaç
 - **Monitorar Performance**: Métricas e KPIs em tempo real
 
 O sistema serve como exemplo prático de como liderar transformações digitais, aplicando tecnologia para resolver problemas reais de negócio e criar valor para usuários e organizações.
+
+## 🎬 Apresentação em Vídeo
+
+**📺 Demonstração Completa**: [https://fiap.jucelio.work/](https://fiap.jucelio.work/)
+
+A apresentação em vídeo demonstra:
+- ✅ **Funcionalidades do Sistema**: Dashboard, gestão de reembolsos, análise automática
+- ✅ **Arquitetura Técnica**: Microserviços, Docker, integração com Azure
+- ✅ **Conceitos de DevLeadership**: Automação, métricas, liderança técnica
+- ✅ **Demonstração Prática**: Upload de documentos, processamento OCR, aprovação/reprovação
 
 ---
 
