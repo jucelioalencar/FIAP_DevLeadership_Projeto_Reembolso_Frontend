@@ -37,8 +37,8 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ${{ secrets.DOCKERHUB_USERNAME }}/reembolsofrontend:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/reembolsofrontend:${{ github.run_number }}
+            ${{ secrets.DOCKERHUB_USERNAME }}/reembolso:frontend_latest
+            ${{ secrets.DOCKERHUB_USERNAME }}/reembolso:frontend_${{ github.run_number }}
 
       - name: Deploy to Production
         run: |
