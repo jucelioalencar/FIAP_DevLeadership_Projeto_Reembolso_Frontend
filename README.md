@@ -103,15 +103,6 @@ O sistema inclui dados de demonstração que simulam cenários reais:
 - ⚠️ **Análise Manual**: Casos que requerem revisão humana
 - ❌ **Reprovação**: Atrasos < 4 horas ou dados inconsistentes
 
-## 🎓 Aplicação dos Conceitos de DevLeadership
-
-Este projeto demonstra na prática:
-
-- **Liderança Técnica**: Arquitetura de soluções escaláveis
-- **Automação Inteligente**: Redução de trabalho manual e erros
-- **Métricas e OKRs**: Acompanhamento de performance em tempo real
-- **Experiência do Usuário**: Interface intuitiva e eficiente
-- **Integração de Sistemas**: Conectividade com múltiplas APIs e serviços
 
 ## 🚀 Como Executar
 
@@ -184,7 +175,7 @@ npm run build
 
 ## 🎯 Conclusão
 
-Este projeto representa uma aplicação completa de conceitos de **DevLeadership** em um cenário real de automação de processos. Demonstra como a tecnologia pode ser utilizada para:
+Este projeto representa uma aplicação completa em um cenário real de automação de processos. Demonstra como a tecnologia pode ser utilizada para:
 
 - **Otimizar Processos**: Redução significativa de tempo e erros
 - **Melhorar Experiência**: Interface intuitiva para usuários
