@@ -212,7 +212,7 @@ A apresentação em vídeo demonstra:
 - **🎬 Apresentação Completa**: [Vimeo - Sistema de Reembolso FIAP](https://vimeo.com/1130565390)
 - **🎬 Demonstração Visual**: <a href="https://imgcdn.dev/i/Yy0yND"><img src="https://s6.imgcdn.dev/Yy0yND.gif" alt="Demo GIF" width="200" border="0"></a>
 - **💻 Código Fonte**: [GitHub Repository](https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend)
-- **🐳 Docker Hub**: [Container Image](https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend)
+- **🐳 Docker Hub**: [Container Image](https://hub.docker.com/layers/devjucelio/reembolso/frontend_latest/)
 - **📚 Documentação Docker**: [DOCKER.md](./DOCKER.md)
 
 ---
