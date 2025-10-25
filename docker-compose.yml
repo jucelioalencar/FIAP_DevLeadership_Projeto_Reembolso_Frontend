@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  # Aplicação React - Sistema de Reembolso
+  sistema-reembolso:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sistema-reembolso-fiap
+    ports:
+      - "3000:80"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+    labels:
+      - "com.docker.compose.project=sistema-reembolso"
+      - "com.docker.compose.service=frontend"
+    networks:
+      - reembolso-network
+
+networks:
+  reembolso-network:
+    driver: bridge
+    name: sistema-reembolso-network
+
