@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend)
 [![Demo](https://img.shields.io/badge/Demo-Online-green?style=for-the-badge&logo=vercel)](https://fiap.jucelio.work/)
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker)](https://github.com/jucelioalencar/FIAP_DevLeadership_Projeto_Reembolso_Frontend)
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/layers/devjucelio/reembolso/frontend_latest/)
 
 ## 📋 Sobre o Projeto
 
