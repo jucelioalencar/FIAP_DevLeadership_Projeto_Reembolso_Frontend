@@ -12,7 +12,8 @@ Este projeto foi desenvolvido como parte do curso **FIAP DevLeadership** e tem c
 
 **📺 Vídeo de Demonstração**: [https://fiap.jucelio.work/](https://fiap.jucelio.work/)
 
-**🎬 Apresentação Completa no Vimeo**: [https://vimeo.com/1130565390](https://vimeo.com/1130565390)
+**🎬 Apresentação Completa no Vimeo**: ![Demonstração do sistema](docs/screen-capture.gif)
+
 
 > 🎬 **Assista à apresentação completa** do Sistema de Reembolso FIAP DevLeadership, incluindo demonstração das funcionalidades, arquitetura e conceitos aplicados.
 
